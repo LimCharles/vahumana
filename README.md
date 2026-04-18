@@ -1,7 +1,5 @@
 # vahumana
 
-> *vahumana* — the wandering spirit from Genshin Impact; those who lost their physical form yet persist as emotion and memory.
-
 A research prototype exploring **human-like lossy reconstructive emotional memory** for large language models.
 
 ## Philosophy
